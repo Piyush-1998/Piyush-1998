@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-malviyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-malviyaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@piyush_malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@piyush_malviya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Piyush_Malviya?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@piyush_malviya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushmalviya2k17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushmalviya2k17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/piyushmalviya/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushmalviya/profile" height="30" width="40" /></a>
 </p>
